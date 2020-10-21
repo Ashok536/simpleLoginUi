@@ -1,0 +1,7 @@
+::ng-deep .mat-header-cell{
+    font-size: 14px;
+    padding: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    width: 120px;
+}
